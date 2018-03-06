@@ -2,7 +2,7 @@
 langs: [fr_FR,en_US,es_ES]
 baseurl: "/"
 sass:
-  sass_dir: assets/css2
+  sass_dir: assets/css
   style: compressed
 markdown: kramdown
 permalink: /404.html
