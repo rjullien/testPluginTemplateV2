@@ -76,13 +76,14 @@ nav ul a, nav {
 	vertical-align: middle !important;
 }
 .toctext{
-	font-size : 0.85rem !important; 
+	font-size : 1rem !important; 
 }
 .tocnumber{
 	color : #40535E !important;
 }
 #side-nav a{
 	line-height: 24px !important;
+	font-size: 1.2rem !important;
 }
 .toc a.active{
 	 font-weight: bold;
@@ -94,5 +95,10 @@ a{
 	color:#ffab40 !important;
 }
 .titre{
-padding-left: 90px !important;
+	padding-left: 90px !important;
+}
+nav .nav-wrapper {
+    position: absolute !important;
+    height: 100% !important;
+    padding-left: 20px !important;
 }
