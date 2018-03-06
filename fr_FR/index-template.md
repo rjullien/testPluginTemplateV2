@@ -131,6 +131,10 @@ obligatoire) :
 
 -   hasOwnDeamon : indique que le plugin a un démon
 
+-   changelog : lien vers le changelog du plugin
+
+-   documentation : Lien vers la documentation du plugin
+
 Exemple :
 
     {
