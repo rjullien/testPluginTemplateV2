@@ -5,7 +5,11 @@ custom_css: styles
 <html lang="pt-br">
 <head>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  {% if page.custom_js %}
+  {% for js_file in page.custom_js %}
   <link rel="stylesheet" href="/{{site.github.project_title}}/assets/css/{{ stylesheet }}.css">
+    {% endfor %}
+{% endif %}
   <link rel="stylesheet" href="/{{site.github.project_title}}/assets/css/materialize.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta http-equiv="Content-Language" content="pt-br">
