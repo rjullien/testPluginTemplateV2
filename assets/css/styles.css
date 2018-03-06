@@ -29,8 +29,8 @@ h1,h3,h4,h5,h6 {
 }
 #side-nav {
 	background-color:#F3F3F3 !important;
-	z-index:2 !important;
-	top:93px !important;
+	z-index:-1 !important;
+	top:90px !important;
 	width : 350px !important;
 }
 #div_menuMobile {
