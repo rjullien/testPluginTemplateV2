@@ -46,13 +46,13 @@ font-size: 1.9rem;
 	padding-left : 400px !important;
 }
 #side-nav {
-	background-color:#F3F3F3 !important;
+	background-color:#546e7a !important;
 	z-index:-1 !important;
 	top:80px !important;
 	width : 350px !important;
 }
 #div_menuMobile {
-	background-color:#F3F3F3 !important;
+	background-color:#546e7a !important;
 }
 @media only screen and (max-width : 992px) {
 	#div_content {
@@ -94,13 +94,13 @@ nav ul a, nav {
 	vertical-align: middle !important;
 }
 .toctext{
-	font-size : 1rem !important;
+	font-size : 1.2rem !important;
 }
 .tocnumber{
 	color : #40535E !important;
 }
 #side-nav a{
-	line-height: 24px !important;
+	line-height: 30px !important;
 	font-size: 1.2rem !important;
 }
 .toc a.active{
