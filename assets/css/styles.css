@@ -26,12 +26,6 @@ line-height: 0.8;
 font-size: 1.9rem;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 1280px;
-  width: 80%;
-}
-
 .toctext{
 	color : #000000 !important;
 }
