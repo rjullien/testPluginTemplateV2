@@ -6,8 +6,7 @@ Plugin servant de base pour les plugins. Attention lors de l’utilisation
 à bien remplacer tous les templates par l’id de votre plugin.
 
 # Création plugin partie 1 : l’arborescence
-Création plugin partie 2 : plugin info 
-===
+
 Voici sa structure: tout d’abord un dossier du nom de votre plugin (son
 identifiant unique plus exactement) qui doit contenir les sous-dossiers
 suivants :
