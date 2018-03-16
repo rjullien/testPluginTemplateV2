@@ -25,7 +25,7 @@ h1,h3,h4,h5,h6 {
 	margin-left : 20px !important;
 }
 #div_content {
-	padding-left : 400px !important; 
+	padding-left : 400px !important;
 }
 #side-nav {
 	background-color:#F3F3F3 !important;
@@ -38,7 +38,7 @@ h1,h3,h4,h5,h6 {
 }
 @media only screen and (max-width : 992px) {
 	#div_content {
-		padding-left : 0 !important; 
+		padding-left : 0 !important;
 	}
 }
 .toclevel-2{
@@ -47,7 +47,7 @@ h1,h3,h4,h5,h6 {
 nav ul a, nav {
   color: #444 !important;
   background-color: #eee !important;
-  height: 90px !important;
+  height: 80px !important;
 }
 .jeedomcolorbg {
 	background-color: #40535E !important;
@@ -76,7 +76,7 @@ nav ul a, nav {
 	vertical-align: middle !important;
 }
 .toctext{
-	font-size : 1rem !important; 
+	font-size : 1rem !important;
 }
 .tocnumber{
 	color : #40535E !important;
@@ -100,4 +100,15 @@ a{
 nav .nav-wrapper {
 	position: absolute !important;
 	padding-left: 20px !important;
+}
+
+.page-footer{
+background-color:#454449 !important;
+position:fixed !important;
+bottom:0 !important;
+left:0 !important;
+width:100% !important;
+height:50px;
+padding-top: 15px !important;
+z-index:2;
 }
