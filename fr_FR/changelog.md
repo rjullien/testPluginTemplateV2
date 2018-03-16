@@ -1,5 +1,5 @@
 # Idées pour de futures releases
-~~chapitre à garder seulement pour les idées sur lequelle aucun dev n'est prévu actuellement~~ 
+~~chapitre à garder seulement pour les idées sur lequelles aucun dev n'est prévu actuellement~~ 
 
 # Prochaine release 
 ~~chapitre à garder seulement si une version dev est en cours~~ 
