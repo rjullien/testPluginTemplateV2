@@ -26,6 +26,9 @@ line-height: 0.8;
 font-size: 1.9rem;
 }
 
+.sel_lang , .material-icons{
+	color: #eee;
+}
 .div_summary{
 	margin-top:-45px;
 	padding-bottom: 45px;
