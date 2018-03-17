@@ -36,9 +36,10 @@ font-size: 1.9rem;
 }
 
 @media only screen and (min-width: 993px)
-html {
+.container {
     width: 80% !important;
 }
+
 .sel_lang , .material-icons{
 	color: #eee;
 }
