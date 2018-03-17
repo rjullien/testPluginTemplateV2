@@ -30,15 +30,17 @@ font-size: 1.9rem;
     height: 80px;
 }
 
+@media only screen and (min-width: 993px)
+.container {
+    width: 80% !important;
+}
+
 @media only screen and (max-width: 992px)
 .container {
     width: 93% !important;
 }
 
-@media only screen and (min-width: 993px)
-.container {
-    width: 80% !important;
-}
+
 
 .sel_lang , .material-icons{
 	color: #eee;
@@ -91,11 +93,6 @@ nav ul a,nav {
 }
 .collection a.collection-item {
 	color: #85a835 !important;
-}
-.container {
-	@media only screen and (min-width: 993px){
-		width: 90% !important;
-	}
 }
 
 .logo {
