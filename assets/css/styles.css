@@ -30,21 +30,6 @@ font-size: 1.9rem;
     height: 80px;
 }
 
-@media only screen and (min-width: 993px){}
-	.container {
-    width: 80% !important;
-	}
-}
-
-@media only screen and (max-width : 992px) {
-	#div_content {
-		padding-left : 0 !important;
-	}
-	.container {
-	    width: 93% !important;
-	}
-}
-
 .sel_lang , .material-icons{
 	color: #eee;
 }
@@ -133,6 +118,22 @@ margin-top:5px !important;
 nav .button-collapse {
     float: right !important;
 }
+
+@media only screen and (min-width: 993px){}
+	.container {
+    width: 80% !important;
+	}
+}
+
+@media only screen and (max-width : 992px) {
+	#div_content {
+		padding-left : 0 !important;
+	}
+	.container {
+	    width: 93% !important;
+	}
+}
+
 .page-footer{
 background-color:#454449 !important;
 position:fixed !important;
