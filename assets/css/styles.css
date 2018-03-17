@@ -3,10 +3,12 @@ h1 {
 }
 h2 {
 	font-size : 2rem !important;
+	text-decoration : underline !important;
 }
 h3 {
 	font-size : 1.5rem !important;
 }
+
 h1,h3,h4,h5,h6 {
 	color : #40535E !important;
 }
@@ -32,6 +34,7 @@ font-size: 1.9rem;
 
 .sel_lang , .material-icons{
 	color: #eee;
+	padding-top: 10px;
 }
 .div_summary{
 	margin-top:-45px;
@@ -103,7 +106,7 @@ margin-top:5px !important;
 	color : #eee !important;
 }
 #side-nav a{
-	line-height: 24px !important;
+	line-height: 30px !important;
 }
 
 .toc a.active{
