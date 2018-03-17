@@ -61,6 +61,11 @@ nav ul a,nav {
 		width: 85% !important;
 	}
 }
+
+.brand-logo {
+height:50px;
+margin-top:5px;
+}
 .waves-effect.waves-jeedom .waves-ripple {
 	background-color: rgba(149, 193, 43, 0.65);
 }
