@@ -88,10 +88,10 @@ margin-top:5px !important;
 .waves-effect.waves-jeedom .waves-ripple {
 	background-color: rgba(149, 193, 43, 0.65);
 }
-.toctitle{
+#toctitle{
 	border-bottom-style: ridge;
 	border-bottom-width: 1px;
-	border-bottom-color: lightgrey;	
+	border-bottom-color: lightgrey;
 }
 .toclevel-1 a{
 	padding-left: 10px !important;
