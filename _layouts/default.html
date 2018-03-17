@@ -135,7 +135,7 @@
     i++;
   }
   if($(this)[0].tagName.toLowerCase() == 'h2'){
-    $('#'+$(this).attr('id')).text( (i-1) + '.' + j + ') ' + $(this).text());
+    $('#'+$(this).attr('id')).text(i + ') ' + $(this).text());
     j++;
   }else{
     j = 1;
