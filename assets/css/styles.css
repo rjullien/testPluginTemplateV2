@@ -30,17 +30,20 @@ font-size: 1.9rem;
     height: 80px;
 }
 
-@media only screen and (min-width: 993px)
-.container {
+@media only screen and (min-width: 993px){}
+	.container {
     width: 80% !important;
+	}
 }
 
-@media only screen and (max-width: 992px)
-.container {
-    width: 93% !important;
+@media only screen and (max-width : 992px) {
+	#div_content {
+		padding-left : 0 !important;
+	}
+	.container {
+	    width: 93% !important;
+	}
 }
-
-
 
 .sel_lang , .material-icons{
 	color: #eee;
@@ -72,11 +75,7 @@ font-size: 1.9rem;
 #div_menuMobile {
 	background-color:#546e7a !important;
 }
-@media only screen and (max-width : 992px) {
-	#div_content {
-		padding-left : 0 !important;
-	}
-}
+
 .toclevel-2{
 	margin-left : 10px !important;
 }
