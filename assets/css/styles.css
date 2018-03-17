@@ -119,6 +119,7 @@ margin-top:5px !important;
 
 .toc a.active{
 	 font-weight: bold;
+	 font-size: 1.3rem;
 	 color: #fff;
 }
 .dropdown-content li>a, .dropdown-content li>span{
