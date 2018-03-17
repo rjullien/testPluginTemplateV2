@@ -95,16 +95,17 @@ margin-top:5px !important;
 	padding-left: 10px !important;
 	height: 100% !important;
 	vertical-align: middle !important;
+	color: #ffffff;
 }
 .toclevel-1{
 	vertical-align: middle !important;
 }
 .toctext{
 	font-size : 1.1rem !important;
-	color: #fff;
+	color: #ffffff;
 }
 .tocnumber{
-	color : #40535E !important;
+	color : #ffffff !important;
 }
 #side-nav a{
 	line-height: 24px !important;
