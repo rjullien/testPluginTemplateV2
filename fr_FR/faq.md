@@ -2,20 +2,10 @@
 
 ### Question 1 ?
 
-`
-Reponse en format code simple quote
-`
+> Reponse 1
 
 ### Question 2 ?
 
-Reponse en format P
+> Reponse 2
 
-### Question 3 ?
 
-> Reponse en format blockquote
-
-### Question 4 ?
-
-```
-Reponse en format code
-```
