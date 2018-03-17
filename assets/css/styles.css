@@ -19,6 +19,9 @@ h1,h3,h5,h6 {
 h2 {
 line-height: 0.5;
 color: #eee;
+border-bottom-style: ridge;
+border-bottom-width: 1px;
+border-bottom-color: lightgrey;
 }
 
 h4 {
@@ -33,9 +36,6 @@ font-size: 1.9rem;
 
 .sel_lang , .material-icons{
 	color: #eee;
-	border-bottom-style: ridge;
-	border-bottom-width: 1px;
-	border-bottom-color: lightgrey;
 }
 .div_summary{
 	margin-top:-45px;
