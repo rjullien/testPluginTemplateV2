@@ -95,14 +95,12 @@ margin-top:5px !important;
 	padding-left: 10px !important;
 	height: 100% !important;
 	vertical-align: middle !important;
-	color: #fff;
 }
 .toclevel-1{
 	vertical-align: middle !important;
 }
 .toctext{
 	font-size : 1.1rem !important;
-	color: #fff;
 }
 .tocnumber{
 	color : #ffffff !important;
@@ -113,6 +111,7 @@ margin-top:5px !important;
 
 .toc a.active{
 	 font-weight: bold;
+	 color: #fff;
 }
 .dropdown-content li>a, .dropdown-content li>span{
 	color : #40535E !important;
