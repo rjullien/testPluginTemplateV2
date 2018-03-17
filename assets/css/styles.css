@@ -60,7 +60,7 @@ font-size: 1.9rem;
 	width : 350px !important;
 }
 #div_menuMobile {
-	background-color:#F3F3F3 !important;
+	background-color:#546e7a !important;
 }
 @media only screen and (max-width : 992px) {
 	#div_content {
