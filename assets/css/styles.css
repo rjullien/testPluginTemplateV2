@@ -7,9 +7,25 @@ h2 {
 h3 {
 	font-size : 1.5rem !important;
 }
-h1,h2,h3,h4,h5 {
+h1,h3,h4,h5,h6 {
 	color : #40535E !important;
 }
+h1,h3,h5,h6 {
+	font-weight: 300 !important;
+    	line-height: 1.1 !important;
+}
+
+h2 {
+line-height: 0.5;
+color: #888;
+}
+
+h4 {
+font-weight: 300;
+line-height: 0.8;
+font-size: 1.9rem;
+}
+
 .z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
 	box-shadow: 0 2px 5px 0 rgba(149,193,43,0.16), 0 2px 10px 0 rgba(0,0,0,0.12) !important;
 }
@@ -27,9 +43,9 @@ h1,h2,h3,h4,h5 {
 	padding-left : 400px !important;
 }
 #side-nav {
-	background-color:#F3F3F3 !important;
+	background-color:#546e7a !important;
 	z-index:2 !important;
-	top:60px !important;
+	top:80px !important;
 	width : 350px !important;
 }
 #div_menuMobile {
@@ -45,7 +61,8 @@ h1,h2,h3,h4,h5 {
 }
 nav ul a,nav {
 	color: #444 !important;
-	background-color: #fff !important;
+	background-color: #eee !important;
+	height: 80px !important;
 }
 .jeedomcolorbg {
 	background-color: #40535E !important;
