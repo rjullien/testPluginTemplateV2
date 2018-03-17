@@ -35,7 +35,7 @@ font-size: 1.9rem;
     width: 93% !important;
 }
 
-@media only screen and (min-width: 992px)
+@media only screen and (min-width: 1400px)
 html {
     width: 80% !important;
 }
