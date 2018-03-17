@@ -19,9 +19,6 @@ h1,h3,h5,h6 {
 h2 {
 line-height: 0.5;
 color: #eee;
-border-bottom-style: ridge;
-border-bottom-width: 1px;
-border-bottom-color: lightgrey;
 }
 
 h4 {
@@ -90,6 +87,11 @@ margin-top:5px !important;
 
 .waves-effect.waves-jeedom .waves-ripple {
 	background-color: rgba(149, 193, 43, 0.65);
+}
+.toctitle{
+	border-bottom-style: ridge;
+	border-bottom-width: 1px;
+	border-bottom-color: lightgrey;	
 }
 .toclevel-1 a{
 	padding-left: 10px !important;
