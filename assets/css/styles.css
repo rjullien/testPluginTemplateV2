@@ -7,25 +7,12 @@ h2 {
 h3 {
 	font-size : 1.5rem !important;
 }
-h1,h3,h4,h5,h6 {
-	color : #40535E !important;
+h1,h2,h3,h4,h5 {
+	color : #95C12B !important;
 }
-h1,h3,h5,h6 {
-	font-weight: 300 !important;
-    	line-height: 1.1 !important;
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
+	box-shadow: 0 2px 5px 0 rgba(149,193,43,0.16), 0 2px 10px 0 rgba(0,0,0,0.12) !important;
 }
-
-h2 {
-line-height: 0.5;
-color: #888;
-}
-
-h4 {
-font-weight: 300;
-line-height: 0.8;
-font-size: 1.9rem;
-}
-
 .toctext{
 	color : #000000 !important;
 }
@@ -37,43 +24,41 @@ font-size: 1.9rem;
 	margin-left : 20px !important;
 }
 #div_content {
-	padding-left : 400px !important;
+	padding-left : 400px !important; 
 }
 #side-nav {
-	background-color:#546e7a !important;
-	z-index:-1 !important;
-	top:80px !important;
+	background-color:#F3F3F3 !important;
+	z-index:2 !important;
+	top:60px !important;
 	width : 350px !important;
 }
 #div_menuMobile {
-	background-color:#546e7a !important;
+	background-color:#F3F3F3 !important;
 }
 @media only screen and (max-width : 992px) {
 	#div_content {
-		padding-left : 0 !important;
+		padding-left : 0 !important; 
 	}
 }
 .toclevel-2{
 	margin-left : 10px !important;
 }
-nav ul a, nav {
-  color: #444 !important;
-  background-color: #eee !important;
-  height: 80px !important;
+nav ul a,nav {
+	color: #444 !important;
+	background-color: #fff !important;
 }
 .jeedomcolorbg {
-	background-color: #40535E !important;
+	background-color: #95C12B !important;
 }
 .jeedomcolor {
-	color: #40535E !important;
+	color: #95C12B !important;
 }
 .collection a.collection-item {
 	color: #85a835 !important;
 }
 .container {
-	width: 90% !important;
 	@media only screen and (min-width: 993px){
-		width: 90% !important;
+		width: 85% !important;
 	}
 }
 .waves-effect.waves-jeedom .waves-ripple {
@@ -88,39 +73,17 @@ nav ul a, nav {
 	vertical-align: middle !important;
 }
 .toctext{
-	font-size : 1.2rem !important;
+	font-size : 0.85rem !important; 
 }
 .tocnumber{
-	color : #40535E !important;
+	color : #95C12B !important;
 }
 #side-nav a{
-	line-height: 30px !important;
-	font-size: 1.2rem !important;
+	line-height: 24px !important;
 }
 .toc a.active{
 	 font-weight: bold;
 }
 .dropdown-content li>a, .dropdown-content li>span{
-	color : #40535E !important;
-}
-a{
-	color:#ffab40 !important;
-}
-.titre{
-	padding-left: 90px !important;
-}
-nav .nav-wrapper {
-	position: absolute !important;
-	padding-left: 20px !important;
-}
-
-.page-footer{
-background-color:#454449 !important;
-position:fixed !important;
-bottom:0 !important;
-left:0 !important;
-width:100% !important;
-height:50px;
-padding-top: 15px !important;
-z-index:2;
+	color : #95C12B !important;
 }
