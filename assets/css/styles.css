@@ -118,7 +118,8 @@ margin-top:5px !important;
 }
 
 .toc a.active{
-	 font-size: 1.5rem;
+	 font-weight: bold;
+	 font-size: 1.4rem;
 	 color: #fff;
 }
 .dropdown-content li>a, .dropdown-content li>span{
