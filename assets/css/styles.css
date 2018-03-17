@@ -125,6 +125,10 @@ margin-top:5px !important;
 .dropdown-content li>a, .dropdown-content li>span{
 	color : #40535E !important;
 }
+
+nav .button-collapse {
+    float: right !important;
+}
 .page-footer{
 background-color:#454449 !important;
 position:fixed !important;
