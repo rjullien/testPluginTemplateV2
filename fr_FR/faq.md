@@ -3,22 +3,19 @@
 ### Question 1 ?
 
 `
-Reponse en format blockquote
-Reponse 1.
+Reponse en format code simple quote
 `
 
 ### Question 2 ?
 
 Reponse en format P
-Reponse 2
 
+### Question 3 ?
 
-> test du blockquote
+> Reponse en format blockquote
 
-
-test du <P>
-
+### Question 4 ?
 
 ```
-test du code quote
+Reponse en format code
 ```
