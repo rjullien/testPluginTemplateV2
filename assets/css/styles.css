@@ -3,7 +3,6 @@ h1 {
 }
 h2 {
 	font-size : 2rem !important;
-	text-decoration : underline !important;
 }
 h3 {
 	font-size : 1.5rem !important;
@@ -34,6 +33,9 @@ font-size: 1.9rem;
 
 .sel_lang , .material-icons{
 	color: #eee;
+	border-bottom-style: ridge;
+	border-bottom-width: 1px;
+	border-bottom-color: lightgrey;
 }
 .div_summary{
 	margin-top:-45px;
