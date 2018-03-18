@@ -129,7 +129,7 @@ nav .button-collapse {
 @media only screen and (min-width: 993px){
 	.container {
     width: 80% !important;
-	margin-bottom: :40px !important;
+	margin-bottom: 40px !important;
 	}
 }
 
@@ -139,7 +139,7 @@ nav .button-collapse {
 	}
 	.container {
 	    width: 93% !important;
-		margin-bottom: :40px !important;
+		margin-bottom: 40px !important;
 	}
 }
 
