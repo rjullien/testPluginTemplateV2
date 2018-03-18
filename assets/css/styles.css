@@ -127,9 +127,11 @@ nav .button-collapse {
 }
 
 @media only screen and (min-width: 993px){
+	#div_main{
+		margin-bottom: 40px !important;
+	}
 	.container {
     width: 80% !important;
-	margin-bottom: 40px !important;
 	}
 }
 
@@ -137,9 +139,11 @@ nav .button-collapse {
 	#div_content {
 		padding-left : 0 !important;
 	}
+	#div_main{
+		margin-bottom: 40px !important;
+	}
 	.container {
 	    width: 93% !important;
-		margin-bottom: 40px !important;
 	}
 }
 
